@@ -1,6 +1,5 @@
-# Aiden
-
-👋 Hello, I'm Aiden! As a self-taught programmer currently enrolled in college, my journey into the realm of programming started with a passion for unraveling the intricacies of code. Over time, this passion has evolved into a deep fascination with software security and malware analysis.
+# Hello, I'm Aiden! 👋
+![Programming GIF](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 ### Technologies & Languages
 
@@ -16,10 +15,6 @@ I enjoy working with a diverse set of technologies and languages, including:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" />
 <br />
-
-### About Me
-
-I am passionate about contributing to the field of software security, ensuring the robustness of code, and analyzing malware to enhance digital defenses. Join me on this coding journey!
 
 ### Connect with Me
 
